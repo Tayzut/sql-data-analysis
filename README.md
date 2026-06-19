@@ -1,2 +1,1 @@
-# sql-data-analysis
-Doing practice in sql for Data analyst
+Practice for DATA_ANALYST
